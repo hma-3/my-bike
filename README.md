@@ -56,4 +56,4 @@ Users should be able to:
 - GitHub - [hma-3](https://github.com/hma-3)
 - LinkedIn - [Mariia Hula](www.linkedin.com/in/mariia-hula-014001332)
 - Telegram - [mariia_hula](https://t.me/mariia_hula)
-- E-mail - <mailto:mariia.hula.work@gmail.com>
+- E-mail - [mariia.hula.work@gmail.com](mailto:mariia.hula.work@gmail.com)
